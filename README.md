@@ -30,6 +30,8 @@ As an avid learner, I always try to find myself new things to tinker with, so he
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="54" src="https://cdn.worldvectorlogo.com/logos/css3.svg"></a></code>
 
+<code><a href="https://www.r-project.org" target="_blank"><img height="55" src="https://raw.githubusercontent.com/britogustavo/britogustavo/master/logos/css3.svg></a></code>
+
 ### Contact 
 
 
