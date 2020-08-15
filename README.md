@@ -31,5 +31,6 @@ As an avid learner, I always try to find myself new things to tinker with, so he
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height="54" src="https://cdn.worldvectorlogo.com/logos/css3.svg"></a></code>
 
 ### Contact 
-
+[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="gmail logo" width="100">](reis.brito@unesp.br)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="gmail logo" width="100">](https://www.linkedin.com/in/britogustavobrito/)
 
