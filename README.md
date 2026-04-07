@@ -29,7 +29,7 @@ Tenho interesse em seguir na área de desenvolvimento, buscando evoluir constant
 />
 <img 
     align="left" 
-    alt="JavaScript" 
+    alt="JavaScript"
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
@@ -66,6 +66,4 @@ Tenho interesse em seguir na área de desenvolvimento, buscando evoluir constant
 ---
 
 ### 📈 Objetivo
-Busco minha primeira oportunidade na área de tecnologia para desenvolver minhas habilidades e ganhar experiência prática.
-
----
+Busco minha primeira oportunidade na área de tecnologia, com foco em desenvolvimento web, para desenvolver minhas habilidades e ganhar experiência prática através de projetos reais.
