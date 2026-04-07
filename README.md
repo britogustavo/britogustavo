@@ -2,10 +2,13 @@
 
 **`Estudante de Tecnologia | Futuro Desenvolvedor`**
 
-Tenho 22 anos e estou iniciando minha jornada na área de tecnologia.  
-Atualmente estudo lógica de programação, banco de dados e desenvolvimento web.
+Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e banco de dados.
 
-Tenho interesse em seguir na área de desenvolvimento, buscando evoluir constantemente através de estudos e projetos práticos.
+Possuo conhecimentos em lógica de programação com Python, HTML, CSS e SQL.
+
+Atualmente, estou aprimorando minhas habilidades por meio de cursos e projetos práticos, com o objetivo de consolidar meus conhecimentos e ganhar experiência na área de tecnologia.
+
+Busco minha primeira oportunidade (estágio) na área de desenvolvimento para aplicar na prática o que venho aprendendo e continuar evoluindo profissionalmente.
 
 ---
 
