@@ -2,17 +2,14 @@
 
 **`Estudante de Tecnologia | Futuro Desenvolvedor`**
 
-Tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e banco de dados.
-
-Possuo conhecimentos em lógica de programação com Python, HTML, CSS e SQL.
-
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web e banco de dados. Possuo conhecimentos em SQL, HTML, CSS e lógica de programação com Python.
+ 
 Atualmente, estou aprimorando minhas habilidades por meio de cursos e projetos práticos, com o objetivo de consolidar meus conhecimentos e ganhar experiência na área de tecnologia.
+ 
+Busco uma oportunidade de estágio onde eu possa aplicar na prática o que venho aprendendo e continuar evoluindo profissionalmente.
 
-Busco minha primeira oportunidade (estágio) na área de desenvolvimento para aplicar na prática o que venho aprendendo e continuar evoluindo profissionalmente.
 
----
-
-### 🚀 Tecnologias em aprendizado
+## 🚀 Tecnologias em aprendizado
 
 <img 
     align="left" 
@@ -56,17 +53,12 @@ Busco minha primeira oportunidade (estágio) na área de desenvolvimento para ap
 />
 
 <br/>
-<br/>
 
----
-
-### 📚 Atualmente estudando
+## 📚 Atualmente estudando
 - Lógica de programação  
 - Banco de dados (MySQL)  
 - HTML e CSS  
 - JavaScript  
 
----
-
-### 📈 Objetivo
+## 📈 Objetivo
 Busco minha primeira oportunidade na área de tecnologia, com foco em desenvolvimento web, para desenvolver minhas habilidades e ganhar experiência prática através de projetos reais.
