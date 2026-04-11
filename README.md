@@ -9,7 +9,7 @@ Atualmente, estou aprimorando minhas habilidades por meio de cursos e projetos p
 Busco uma oportunidade de estágio onde eu possa aplicar na prática o que venho aprendendo e continuar evoluindo profissionalmente.
 
 
-## 🚀 Tecnologias em aprendizado
+## 🚀 Tecnologias
 
 <img 
     align="left" 
@@ -55,7 +55,7 @@ Busco uma oportunidade de estágio onde eu possa aplicar na prática o que venho
 <br/>
 
 ## 📚 Atualmente estudando
-- Lógica de programação  
+- Python  
 - Banco de dados (MySQL)  
 - HTML e CSS  
 - JavaScript  
